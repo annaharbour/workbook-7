@@ -1,0 +1,1 @@
+SELECT MAX(UnitPrice) AS HighestPrice FROM products;

@@ -1,0 +1,1 @@
+SELECT DISTINCT CategoryID, AVG(UnitPrice) AS AveragePrice FROM products GROUP BY CategoryId;

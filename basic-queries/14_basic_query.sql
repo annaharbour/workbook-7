@@ -1,0 +1,1 @@
+SELECT FirstName, LastName, Salary FROM employees WHERE Salary > 2000 AND salary < 2500;

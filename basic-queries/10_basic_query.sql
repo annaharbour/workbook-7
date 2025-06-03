@@ -1,0 +1,1 @@
+SELECT products.* FROM products JOIN categories ON categories.CategoryID = products.CategoryID WHERE CategoryName = 'Seafood';

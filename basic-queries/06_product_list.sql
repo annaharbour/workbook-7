@@ -1,1 +1,0 @@
-SELECT * from PRODUCTS where UnitsInStock >= 100 ORDER BY UnitPrice DESC ORDER BY ProductName ASC;

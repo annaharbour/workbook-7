@@ -1,0 +1,1 @@
+SELECT CategoryID FROM categories WHERE CategoryName = 'Seafood';

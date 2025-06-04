@@ -1,0 +1,1 @@
+SELECT OrderId, ShipName, ShipAddress FROM orders WHERE (SELECT ShipperId FROM shippers WHERE CompanyName = "Federal Shipping");
